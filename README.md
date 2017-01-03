@@ -1,5 +1,5 @@
-# Framer-Components
-Framer Components – Common Interface Elements (https://framer.com/)
+# Framer Components
+Common interface elements for prototying in [Framer](https://framer.com/).
 
 # References
 
